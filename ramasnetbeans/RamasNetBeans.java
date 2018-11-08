@@ -14,6 +14,7 @@ public class RamasNetBeans {
     public class ramaC{
            public void codigoC(){
                System.out.println("Rama experimental 1");
+               System.out.println("Rama experimental 2");
            }
     }
     
